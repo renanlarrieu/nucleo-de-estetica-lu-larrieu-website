@@ -1,0 +1,9 @@
+Site hospedado gratuitamente no https://app.netlify.com/sites/nucleodeesteticalularrieu/overview
+
+para utilizar o git+ basta:
+1. Modificar o arquivo que se quer atualizar;
+2. Apertar ctrl+S para salvar o(s) arquivo(s);
+3. Apertar Ctrl+Shift+H para acessar ao menu git+;
+4. Escolher a opção Add All, commit and push;
+
+Dessa forma, todos os arquivos modificados já serão adicionados, enviados e atualizados no servidor.
